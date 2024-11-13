@@ -40,8 +40,8 @@ discuss/
 │   └── style.css          # CSS file for styling
 │
 ├── server/                # Server-side files
-│   └── index.php          # Main controller that handles routing
-│
+│   └── requests.php       # for controlling of logins
+│── index.jsp
 ├── .gitignore             # Git ignore file
 └── README.md              # Project documentation
 
