@@ -82,13 +82,13 @@ discuss/
 ![Screenshot (245)](https://github.com/user-attachments/assets/abe0fda4-bd3b-4988-af4b-fff804619815)
 
 
-``` Category Page ```
+``` SignUP Page ```
 
 
 ![Screenshot (247)](https://github.com/user-attachments/assets/6f2ee998-ec9b-43d7-9b3b-4d7f37de1124)
 
 
-``` Login ```
+``` Login succeessfully ```
 
 
 ![Screenshot (248)](https://github.com/user-attachments/assets/a3d20558-5493-470a-a31c-a06fd08df27f)
