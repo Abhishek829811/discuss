@@ -15,6 +15,38 @@ Discuss is a simple PHP-based project that allows users to participate in discus
 - HTML, CSS, JavaScript (for frontend)
 - Bootstrap (for style)
 
+## Folder Structure
+```
+discuss/
+│
+├── client/                # Client-side files
+│   ├── ask.php            # Ask a question page
+│   ├── answer.php         # Answers to a question
+│   ├── category.php       # Category selection for questions
+│   ├── categorylist.php   # Category list for filtering
+│   ├── commonfiles.php    # Common CSS/JS includes
+│   ├── header.php         # Header with navbar
+│   ├── login.php          # User login page
+│   ├── question-details.php # Question detail page
+│   ├── questions.php      # List of questions page
+│   ├── signup.php         # User signup page
+│   └── style.css          # Custom CSS styles
+│
+├── common/                # Common files (shared across pages)
+│   └── db.php             # Database connection file
+│
+├── public/                # Public files
+│   ├── logo.png           # Logo image
+│   └── style.css          # CSS file for styling
+│
+├── server/                # Server-side files
+│   └── index.php          # Main controller that handles routing
+│
+├── .gitignore             # Git ignore file
+└── README.md              # Project documentation
+
+```
+
 ## Screenshots of my project
 ``` Home Page ```
 
